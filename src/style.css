@@ -112,12 +112,12 @@
   }
    @media (max-width: 500px) {
     body {
-        font-size: 10px;
+        font-size: 12px;
         align-items: center;
     }
 
     .coder {
-        font-size: 40px;
+        font-size: 50px;
         text-align: center;
     }
 
@@ -127,7 +127,7 @@
     }
 
     h2 {
-        font-size: 40px;
+        font-size: 35px;
     }
 
     img {
